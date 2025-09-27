@@ -1,6 +1,7 @@
 #calculator{
     max-width:400px;
     max-height:450px;
+    width:90%;
 }
 body{
     height:100%;
